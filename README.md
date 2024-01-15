@@ -2,7 +2,7 @@
 
 Para estudar sobre Flutter optei por desenvolver este jogo 
 
-Quem quiser baixar o jogo esta gratuido para android [Baixar aqui ] (https://play.google.com/store/apps/details?id=com.lopes.dev.jogomen&pli=1)
+Quem quiser baixar o jogo esta gratuido para android [Baixar aqui](https://play.google.com/store/apps/details?id=com.lopes.dev.jogomen&pli=1)
 
 ## Getting Started
 
