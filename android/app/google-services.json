@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "32114121135",
+    "project_id": "penc-tec-jogo-penc",
+    "storage_bucket": "penc-tec-jogo-penc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32114121135:android:38f2fa5d5bd3bb7edab75a",
+        "android_client_info": {
+          "package_name": "com.lopes.dev.jogomen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32114121135-ghpiiotidhif2lk56p168n87g73qclvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMHJtVJvIDuBVmXw7NPSQIR1CsIR3oIyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32114121135-ghpiiotidhif2lk56p168n87g73qclvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
